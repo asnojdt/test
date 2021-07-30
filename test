@@ -80,9 +80,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" tvg-name="HBO SIGNATURE" group-title="ASTRO",HBO SIGNATURE
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 
-#EXTINF:-1 tvg-id="CHN" group-title="ASTRO" tvg-logo="https://poster.starhubgo.com/Linear_channels2/608_1920x1080_HTV.png",Red by HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
-
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="",Astro Awani [Not 24/7]
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",Astro Awani
